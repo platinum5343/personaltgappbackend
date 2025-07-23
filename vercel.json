@@ -6,7 +6,7 @@
             "use": "@vercel/python"
         }
     ],
-    "route": [
+    "routes": [
         {
             "src": "/(.*)",
             "dest": "api/webhook.py"
