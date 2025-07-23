@@ -1,5 +1,5 @@
 pyTelegramBotAPI==4.12.0
-fire-base-admin==6.0.2
+firebase-admin==6.0.2
 python-dotenv==1.0.0
 requests==2.31.0
 aiohttp==3.9.1
